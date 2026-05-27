@@ -31,7 +31,7 @@ public class BankAccount  {
 	public void TransferToSavings(BankAccount other,double amount ) {
 		
 		balance -= amount;
-		other.deposit (amount);
+		other.deposit ();
 		
 	}
 	

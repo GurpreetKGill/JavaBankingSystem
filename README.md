@@ -1,11 +1,14 @@
 # Java-Banking-System
-Version 1 of a Java Banking System built in Eclipse using Java 
+Version 2 of a Java Banking System built in Eclipse using Java 
 
 ## Features
 - Account Creation
 - Deposits
 - Withdrawals
 - Balance Tracking
+- Savings Account
+- Account Transfers
+- Overdrawn Balance Warning
 
 ## Technologies Used
 - Java
@@ -14,6 +17,7 @@ Version 1 of a Java Banking System built in Eclipse using Java
 
 ## Future Improvements 
 - Transaction History
-- Savings and Chequing Accounts
+- User Authentication System
+- File Saving System
 - Interest Calculation
 - Database Integration
